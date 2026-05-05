@@ -6,6 +6,9 @@ End-to-end cybersecurity data analytics project analyzing attack trends, risk pa
 This project analyzes cyberattack data to identify trends, high-risk patterns, and response efficiency.
 Built using Python, Machine Learning, and Power BI, it focuses on turning raw security data into actionable insights.
 
+## Preview
+![Dashboard](cyber_threat_ana_dash.jpg)
+
 ## 🎯 Objectives
 - Analyze trends in cyberattacks across industries and locations
 - Identify factors contributing to high-risk attacks
@@ -55,7 +58,3 @@ After removing data leakage, model accuracy dropped to realistic levels (~60%), 
 
 ## 📌 Key Takeaway
 - Understanding data and avoiding leakage is more important than achieving high accuracy.
-
-## Preview
-![Dashboard](cyber_threat_ana_dash.jpg)
-
